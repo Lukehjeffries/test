@@ -1,2 +1,1 @@
-test-CS375
-Line from feature branch
+Change from conflict branch
