@@ -1,1 +1,3 @@
-Change from main branch
+Resolved merge conflict between main and conflict branch
+
+
