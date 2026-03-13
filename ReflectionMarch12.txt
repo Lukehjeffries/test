@@ -1,0 +1,14 @@
+Prior Sprint Contributions
+During the last sprint, I began working on the foundation of the project. I started looking into how the base code for the Schedule Planner could be structured and researched how course data and scheduling information might be organized. I also began outlining the design report, focusing on how the system will function and how the components of the project will interact.
+
+Planned Contributions for the Upcoming Sprint
+Next week I plan to continue reviewing the design report and improving the sections that have already been started. However, my progress may be lighter because I will be spending time with my family. Because of this, my focus will be on reviewing and refining the design documentation rather than doing major implementation work.
+
+Technical Challenges
+One challenge I am facing is deciding the best way to structure the backend for managing course data and schedules. Since this is still the early stage of the project, I am continuing to research possible approaches before implementation begins.
+
+Personal and Professional Development
+To improve my contributions, I plan to continue learning more about backend structure and system design so that I can better support the implementation phase later in the project.
+
+Gantt Chart Tasks
+My work currently aligns with the Research and Design phases of the Gantt chart. A screenshot of the Gantt chart and the current progress of tasks will be included with this reflection.
